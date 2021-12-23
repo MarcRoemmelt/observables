@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "lib": ["dom", "esnext"],
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "noEmit": true,
+      "jsx": "react-jsx",
+      "allowJs": true,
+      "downlevelIteration": true,
+      "baseUrl": ".",
+      "module": "esnext"
+    },
+    "include": [
+      "*",
+    ]
+  }
+  

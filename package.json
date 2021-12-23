@@ -1,0 +1,22 @@
+{
+  "name": "observers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcRoemmelt/observables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcRoemmelt/observables/issues"
+  },
+  "homepage": "https://github.com/MarcRoemmelt/observables#readme",
+  "dependencies": {
+    "rxjs": "^7.4.0"
+  }
+}
