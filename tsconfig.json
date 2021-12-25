@@ -15,7 +15,7 @@
       "allowJs": true,
       "downlevelIteration": true,
       "baseUrl": ".",
-      "module": "esnext"
+      "module": "commonjs"
     },
     "include": [
       "*",

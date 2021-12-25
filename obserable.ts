@@ -1,6 +1,3 @@
-'use strict'
-import RxJS from 'rxjs';
-
 type Observer<T> = {
     next: (val: T) => void;
     error: (error: any) => void;

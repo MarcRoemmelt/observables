@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/MarcRoemmelt/observables#readme",
   "dependencies": {
+    "@types/node": "^17.0.4",
+    "axios": "^0.24.0",
     "rxjs": "^7.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
   }
 }
